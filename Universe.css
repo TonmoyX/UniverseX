@@ -15,7 +15,7 @@ h2{ padding:5px;
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(177, 216, 255);
    background-position: 100%;
-    font-size: 25px;
+    font-size: 30px;
     text-align: center;
 }
 table{
@@ -23,7 +23,7 @@ table{
     width:100%;
     border-color:skyblue;
     background-color: rgb(90, 93, 93);
-    padding: 5px;
+    padding: 1px;
     color: aliceblue;
     border-style: solid;
 }
