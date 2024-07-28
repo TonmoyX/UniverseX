@@ -12,10 +12,10 @@ h1{
     margin: auto;
    
 }
-h2{
+h2{ padding:5px;
+    font-family: 'Times New Roman', Times, serif;
     background-color: rgb(177, 216, 255);
     font-size: 25px;
-    width: 1000%;
     text-align: center;
 }
 table{
