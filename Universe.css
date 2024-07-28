@@ -9,12 +9,12 @@ h1{
     color:white;
     font-size: 50px;
     text-align: center;
-    margin: auto;
    
 }
 h2{ padding:5px;
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(177, 216, 255);
+   background-position: 100%;
     font-size: 25px;
     text-align: center;
 }
