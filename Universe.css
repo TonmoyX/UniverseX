@@ -17,7 +17,7 @@ h2{ padding:5px;
    background-position: 100%;
     font-size: 30px;
     text-align: center;
-   max-width:100%;
+   background-repeat: repeat-x;
 }
 table{
     border:"1";
