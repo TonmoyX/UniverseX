@@ -102,9 +102,10 @@ a{
 .sub{
     background-color: black;
     color: white;
-    transition: 0.2s;
+    transition: 0.5s;
 }
 .sub:hover{
     background-color: white;
     color: black;
+    border-radius: 5px;
 }
