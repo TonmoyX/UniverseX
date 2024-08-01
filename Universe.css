@@ -99,3 +99,12 @@ a{
 
     padding: 100px;
 }
+.sub{
+    background-color: black;
+    color: white;
+    transition: 0.2s;
+}
+.sub:hover{
+    background-color: white;
+    color: black;
+}
