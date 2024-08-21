@@ -9,91 +9,71 @@ h1{
     color:white;
     font-size: 50px;
     text-align: center;
+    margin: auto;
    
 }
-h2{ padding:5px;
+h2{
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(177, 216, 255);
-   background-position: 100%;
-    font-size: 30px;
+    font-size: 25px;
+    width: 100%;
     text-align: center;
-   background-repeat: repeat-x;
+    background-position: 100%;
+    background-repeat: repeat-x;
+    transition: 0.5s;
 }
 table{
-    border:"1";
     width:100%;
     border-color:skyblue;
     background-color: rgb(90, 93, 93);
     padding: 1px;
     color: aliceblue;
     border-style: solid;
+    
 }
 tr{
     text-align: center;
     font-size: 20px;
 
 }
-th{
+th{display: inline-block;
     padding-inline: 50px;
 }
-a{  
+a{
     color: white;
+    transition: 0.5s;
 }
-.spacex{
-    alt: Space;
-    height: 300px;
-    width: 350px;
-    border-radius: 5px;
-}
-.rocket{
-    height: 300px;
-    width: 350px;
-    border-radius: 5px;
-}
-.nebula{
-    height: 300px;
-    width: 350px;
-    border-radius: 5px;
-}
-.galaxy{
-    height: 300px;
-    width: 340px;
-    border-radius: 5px;
-}
-.jemswebb{
-    height: 300px;
-    width:308px;
-    border-radius: 5px;
+a:hover{
+    border-width: 10px;
+   background-color: rgb(0, 0, 0);
 }
 .d2{
     display: inline-block;
 }
-.ytb{
-    border-width: 5px;
-    border-color: black;
-    width: 558.3px;
-    height: 450px;
+.image{
+    display: inline-flex;
+    width: 19%;
+    height:300px;
+    border-radius: 5px;
 }
-.solarsystem{
-    border-width: 5px;
-    border-color: black;
-    height: 450px;
-    width: 390px;
+.image:hover{
+    width: 21%;
+    height: 350px;
+   transition: 1s;
 }
-.mars{
-    border-width: 5px;
-    border-color: black;
-    width: 365px;
-    height: 450px;
+
+.vdo{
+    display: inline-block;
+    width: 23%;
+    height: 250px;
+    border-radius: 5px;
 }
-.tag{
-    border-width: 5px;
-    border-color: black;
-    width: 350px;
-    height: 450px;
+fieldset{
+    display: inline-block;
+    width: 100%;
 }
 .contact{
-    margin: auto;
+  margin: auto;
     width: 400px;
     height: 250px;
     border-radius: 10px;
@@ -101,17 +81,21 @@ a{
     text-align: center;
     color: black
 }
-.field2{
 
-    padding: 100px;
+.field2{
+    width: 90%;
+    display: inline-block;
+
 }
 .sub{
-    background-color: black;
-    color: white;
+    background-color:rgb(0, 0, 0);
+    color: azure;
     transition: 0.5s;
+
 }
 .sub:hover{
-    background-color: white;
-    color: black;
-    border-radius: 5px;
+        background-color: white;
+        color: black;
+        border-radius: 5px;
 }
+
