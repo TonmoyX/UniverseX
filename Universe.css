@@ -55,13 +55,14 @@ a:hover{
     width: 19%;
     height:300px;
     border-radius: 5px;
+    transition: 1s;
+   
 }
 .image:hover{
     width: 21%;
     height: 350px;
-   transition: 1s;
+  transform: (1);
 }
-
 .vdo{
     display: inline-block;
     width: 23%;
