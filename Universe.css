@@ -58,16 +58,18 @@ a:hover{
     transition: 1s;
    
 }
+.image{
+    display: inline-flex;
+    width: 19%;
+    height:300px;
+    border-radius: 5px;
+    transition: 1s;
+   
+}
 .image:hover{
     width: 21%;
     height: 350px;
   transform: scale(1.1);
-}
-.vdo{
-    display: inline-block;
-    width: 23%;
-    height: 250px;
-    border-radius: 5px;
 }
 fieldset{
     display: inline-block;
