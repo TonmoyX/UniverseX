@@ -61,7 +61,7 @@ a:hover{
 .image:hover{
     width: 21%;
     height: 350px;
-  transform: (1);
+  transform: scale(1.1);
 }
 .vdo{
     display: inline-block;
