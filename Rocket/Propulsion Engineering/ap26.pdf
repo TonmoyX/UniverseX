@@ -1,0 +1,255 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+<link rel="stylesheet" type="text/css" href="http://ae.sharif.edu
+/wp-content/themes/portal-2.0/style.css" media="screen" />
+<link rel="alternate" type="application/rss+xml" title="Department of Aerospace Engineering &raquo; Feed" href="http://ae.sharif.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Department of Aerospace Engineering &raquo; Comments Feed" href="http://ae.sharif.edu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/ae.sharif.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="portal v.2.0.0" name="generator"/><meta content="Theme Junkie Framework v.1.0.5" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='shortcodes-css'  href='http://ae.sharif.edu/wp-content/themes/portal-2.0/functions/shortcodes/shortcodes.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://ae.sharif.edu/wp-content/themes/portal-2.0/includes/js/jquery.min.js?ver=1.6.4'></script>
+<script type='text/javascript' src='http://ae.sharif.edu/wp-content/plugins/dropdown-menu-widget/scripts/include.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://ae.sharif.edu/wp-content/themes/portal-2.0/functions/shortcodes/shortcodes.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://ae.sharif.edu/wp-content/themes/portal-2.0/includes/js/jquery-ui.custom.min.js?ver=1.8.5'></script>
+<script type='text/javascript' src='http://ae.sharif.edu/wp-content/themes/portal-2.0/includes/js/ajaxtabs.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://ae.sharif.edu/wp-content/themes/portal-2.0/includes/js/menu.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://ae.sharif.edu/wp-content/themes/portal-2.0/includes/js/custom.js?ver=1.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ae.sharif.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ae.sharif.edu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+
+	<link rel="stylesheet" type="text/css" href="http://ae.sharif.edu
+/wp-content/plugins/jquery-vertical-mega-menu/css/dcverticalmegamenu.css" media="screen" /><link rel="shortcut icon" href="http://ae.sharif.ir/wp-content/uploads/2015/11/favicon.ico" /><!-- Custom Styling -->
+<style type="text/css">
+body { }
+</style>
+
+
+<!-- Dropdown Menu Widget Styles by shailan (http://shailan.com) v1.9.3 on wp4.3.1 -->
+<link rel="stylesheet" href="http://ae.sharif.edu
+/wp-content/plugins/dropdown-menu-widget/css/shailan-dropdown.min.css" type="text/css" />
+<link rel="stylesheet" href="http://ae.sharif.edu
+/wp-content/plugins/dropdown-menu-widget/themes/color-scheme.css" type="text/css" />
+<style type="text/css" media="all">
+	ul.dropdown { white-space: nowrap; }
+ul.dropdown li.parent>a{
+	padding-right:25px;
+}
+ul.dropdown li.parent>a:after{ 
+	content:""; position:absolute; top: 45%; right:6px;width:0;height:0; 
+	border-top:4px solid rgba(0,0,0,0.5);border-right:4px solid transparent;border-left:4px solid transparent }
+ul.dropdown li.parent:hover>a:after{
+	content:"";position:absolute; top: 45%; right:6px; width:0; height:0;
+	border-top:4px solid rgba(0,0,0,0.5);border-right:4px solid transparent;border-left:4px solid transparent }
+ul.dropdown li li.parent>a:after{
+	content:"";position:absolute;top: 40%; right:5px;width:0;height:0;
+	border-left:4px solid rgba(0,0,0,0.5);border-top:4px solid transparent;border-bottom:4px solid transparent }
+ul.dropdown li li.parent:hover>a:after{
+	content:"";position:absolute;top: 40%; right:5px;width:0;height:0;
+	border-left:4px solid rgba(0,0,0,0.5);border-top:4px solid transparent;border-bottom:4px solid transparent }
+
+
+</style>
+<!-- /Dropdown Menu Widget Styles -->
+
+ <!--[if lt IE 7]>
+<script type="text/javascript" src="http://ae.sharif.edu
+/wp-content/themes/portal-2.0/includes/js/unitpngfix.js"></script>
+<link rel="stylesheet" type="text/css" href="http://ae.sharif.edu
+/wp-content/themes/portal-2.0/ie.css" />
+<![endif]-->
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#featured").tabs({fx:{opacity: "toggle"}}).tabs("rotate", 7000, true);
+	});
+</script>
+</head>
+<body class="error404 unknown">
+	<div id="header">
+		<div class="left">
+      <a href="http://ae.sharif.edu"><img src="http://ae.sharif.ir/wp-content/uploads/2015/11/Header44111.jpg" alt="Department of Aerospace Engineering" id="logo"/></a>
+		</div> <!--end: left-->
+		<div class="right">
+				</div> <!--end: right-->
+	</div> <!--end: header-->
+<div id="headline">
+	<div class="left">
+		Subscribe:
+        <span class="aeicon">
+		<a href='http://ae.sharif.edu/agahi.php' title='Subscribe to AE'>AE</a>        </span>
+
+	</div> <!--end: left-->
+	<div class="right">
+		<div class="mlmenu horizontal fade inaccesible">
+			<ul>
+				<!--				<li>-->
+<!--				<a href='http://localhost/www-wp/wp-admin/' title='Admin'>FA</a>-->
+<!--				</li>-->
+<!--				<li>-->
+<!--				<a href='http://localhost/www-wp/wp-admin/' title='Admin'>EN</a>-->
+<!--				</li>-->
+				<li>
+				<form method="get" id="searchform" action="http://ae.sharif.edu/">
+				  <div id="search">
+				    <input class="searchinput" type="text" value="Search this site..." onclick="this.value='';" name="s" id="s" />
+				    <input class="searchsubmit" type="submit" value="GO"/>
+				  </div>
+				</form>
+				</li>
+			</ul>
+		</div> <!--end: menu-->
+	</div> <!--end: right-->
+	<div class="clear"></div>
+</div> <!--headline-->
+<div id="wrapper"><div id="pagewrapper">
+	<div id="column1">
+
+	<div class="leftsidebar">
+	
+			
+	<div id="dropdown-menu-2" class="widget shailan-dropdown-menu-widget">
+<!-- Dropdown Menu Widget by Shailan.com (http://shailan.com)  v1.9.3 on wp4.3.1 -->
+<!-- Menu Type : navmenu_3 -->
+<div class="shailan-dropdown-menu" >
+<div id="shailan-dropdown-wrapper-2" >
+	<div align="left" class="dropdown-vertical-container dm-align-left clearfix"><table cellpadding="0" cellspacing="0"><tr><td><ul id="menu-ae-left-menu" class="dropdown dropdown-vertical dropdown-align-left"><li id="menu-item-261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-261"><a href="http://ae.sharif.edu">Home</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="http://ae.sharif.edu/history/">History</a></li>
+<li id="menu-item-283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-283"><a href="http://ae.sharif.edu/mission/">Mission</a></li>
+<li id="menu-item-262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-262"><a>People</a>
+<ul class="sub-menu">
+	<li id="menu-item-366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366"><a href="http://ae.sharif.edu/~web/faculty.php">Faculty</a></li>
+	<li id="menu-item-263" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-263"><a>Students</a>
+	<ul class="sub-menu">
+		<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-264"><a href="http://ae.sharif.edu/~web/studentslist_bsc.php">Undergraduate</a></li>
+		<li id="menu-item-265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-265"><a href="http://ae.sharif.edu/~web/studentslist_msc.php">Masters</a></li>
+		<li id="menu-item-266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-266"><a href="http://ae.sharif.edu/~web/studentslist_phd.php">PhD Students</a></li>
+	</ul>
+</li>
+	<li id="menu-item-285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a href="http://ae.sharif.edu/staff/">Staff</a></li>
+</ul>
+</li>
+<li id="menu-item-267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-267"><a>Programs</a>
+<ul class="sub-menu">
+	<li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286"><a href="http://ae.sharif.edu/undergraduate-program/">Undergraduate Program</a></li>
+	<li id="menu-item-287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287"><a href="http://ae.sharif.edu/master-program/">Master Program</a></li>
+</ul>
+</li>
+<li id="menu-item-288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="http://ae.sharif.edu/courses/">Courses</a></li>
+<li id="menu-item-289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-289"><a href="http://ae.sharif.edu/labs/">Labs</a></li>
+<li id="menu-item-269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-269"><a href="http://ceas.sharif.edu">CEAS</a></li>
+<li id="menu-item-314" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-314"><a href="http://edu.sharif.edu">EDU</a></li>
+<li id="menu-item-268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-268"><a href="http://ae.sharif.edu/~web/Contact.php">Contact Us</a></li>
+<li id="menu-item-271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-271"><a href="http://ae.sharif.edu/FAQ.php">FAQ</a></li>
+<li id="menu-item-270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-270"><a href="http://ae.sharif.edu/~web/login_member.php">Login</a></li>
+</ul></td>
+				  </tr></table> 
+				</div></div> 
+</div>
+
+<!--/ Dropdown Menu Widget -->			
+              </div>
+
+<!-- Dropdown Menu Widget Effects by shailan (http://shailan.com) v1.9.3 on wp4.3.1 -->
+<script type="text/javascript">/* <![CDATA[ */
+jQuery(document).ready(function($) { 
+ 
+  var config = {
+	over : function(){ $(this).find("ul:first").fadeIn('fast'); },  
+	out : function(){ $(this).find("ul:first").fadeOut('fast'); },
+	timeout : 100  }
+ 
+  $(".dropdown li").hoverIntent( config );
+		
+});
+/* ]]> */</script>
+<!-- /Dropdown Menu Widget Effects -->
+
+         <div id="dropdown-menu-3" class="widget shailan-dropdown-menu-widget">
+<!-- Dropdown Menu Widget by Shailan.com (http://shailan.com)  v1.9.3 on wp4.3.1 -->
+<!-- Menu Type : navmenu_4 -->
+<div class="shailan-dropdown-menu" >
+<div id="shailan-dropdown-wrapper-3" >
+	<div align="left" class="dropdown-vertical-container dm-align-left clearfix"><table cellpadding="0" cellspacing="0"><tr><td><ul id="menu-secondary-menu" class="dropdown dropdown-vertical dropdown-align-left"><li id="menu-item-272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-272"><a>Email Service</a>
+<ul class="sub-menu">
+	<li id="menu-item-275" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-275"><a href="http://ae.sharif.edu/webmail/src/login.php">AE E-Mail and Change Password</a></li>
+	<li id="menu-item-281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-281"><a href="http://mail.sharif.edu">Sharif E-Mail</a></li>
+</ul>
+</li>
+<li id="menu-item-273" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-273"><a>FTP Service</a>
+<ul class="sub-menu">
+	<li id="menu-item-277" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-277"><a href="ftp://ftp.ae.sharif.edu/">AERO FTP</a></li>
+	<li id="menu-item-279" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-279"><a href="ftp://ftp.sharif.edu/">Sharif FTP</a></li>
+	<li id="menu-item-278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-278"><a href="http://ae.sharif.edu/download/h-c-homepage.htm">AE Server</a></li>
+</ul>
+</li>
+<li id="menu-item-274" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-274"><a href="http://ae.sharif.edu/ayinname/ayinnameh.php">Archive</a></li>
+<li id="menu-item-280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-280"><a href="http://ae.sharif.edu/~links">Aerospace Links</a></li>
+</ul></td>
+				  </tr></table> 
+				</div></div> 
+</div>
+
+<!--/ Dropdown Menu Widget -->			
+              </div>
+
+<!-- Dropdown Menu Widget Effects by shailan (http://shailan.com) v1.9.3 on wp4.3.1 -->
+<script type="text/javascript">/* <![CDATA[ */
+jQuery(document).ready(function($) { 
+ 
+  var config = {
+	over : function(){ $(this).find("ul:first").fadeIn('fast'); },  
+	out : function(){ $(this).find("ul:first").fadeOut('fast'); },
+	timeout : 100  }
+ 
+  $(".dropdown li").hoverIntent( config );
+		
+});
+/* ]]> */</script>
+<!-- /Dropdown Menu Widget Effects -->
+
+         	</div> <!--end: leftsidebar-->	
+</div> <!--end: column1-->	<div id="content">
+		<h2 class="pagetitle">Error 404 - Not found</h2>
+	</div> <!--end: content-->
+</div> <!--end: pagewrapper-->
+
+<div id="pageright">
+			
+</div> <!--pageright-->	<div class="clear"></div>
+</div> <!--end: wrapper-->
+
+	
+<div id="bottom">
+	&copy; 2907 <a href="http://ae.sharif.edu">Department of Aerospace Engineering</a>,
+    
+     <div id="bottom">
+     Sharif University of Technology, Azadi Street, Tehran, Iran. <br>Zip Code: 1458889694 | Phone: +98-21-66164601,2 | Fax: +98-21-66022731
+	<div class="clear"></div>
+</div>
+<span style="float: right;color:#dddddd;position:fixed;">Design by<a href="http://tarahanenoovin.com/" style="text-decoration:none;color: #dddddd;">Tarahan Novin </a>.</span>	<div class="clear"></div>
+</div> <!--end: bottom-->
+<script type='text/javascript' src='http://ae.sharif.edu/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://ae.sharif.edu/wp-content/plugins/jquery-vertical-mega-menu/js/jquery.hoverIntent.minified.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://ae.sharif.edu/wp-content/plugins/jquery-vertical-mega-menu/js/jquery.dcverticalmegamenu.1.3.js?ver=4.3.1'></script>
+</body>
+</html>
