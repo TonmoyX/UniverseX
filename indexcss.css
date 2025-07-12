@@ -6,7 +6,7 @@ body{
 html{
     scroll-behavior: smooth;
 }
-@media only screen and (max-width:1447px){
+@media only screen and (max-width:1199px){
     body{
         background-image: none;
         background-color: #888;
@@ -87,7 +87,7 @@ html{
       color: #aaa;
     }
 }
-@media only screen and (min-width:1447px) and (max-width:1500px){
+@media only screen and (min-width:1200px) and (max-width:1500px){
     .pvna{
         display: none;
     }
